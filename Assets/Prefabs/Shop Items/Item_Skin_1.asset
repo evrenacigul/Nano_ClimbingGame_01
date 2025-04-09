@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 369dc23ec4af10a40a8c55ae2ecda0b7, type: 3}
+  m_Name: Item_Skin_1
+  m_EditorClassIdentifier: 
+  tab: {fileID: 11400000, guid: 2564202cd738a2f42b618c6a388c013c, type: 2}
+  itemName: Skin 1
+  itemDescription: Skin
+  price: 40
+  isBought: 0
+  boughtCount: 0
+  maxCanBeBought: 999999
+  modifierName: Skin
+  materialChange: {fileID: 2100000, guid: d6a61efbb1001a8459038c009e011f70, type: 2}
+  floatValue: 0
+  intValue: 0
